@@ -39,6 +39,3 @@ CNN-Attention model for opinion classification obtained 91.58% f1-score on test 
 |   opportunity    | 94.83% |
 
 If you want to try opinion mining on your own data, please replace the content in `data/text.txt`.
-
-## Contact  
-If you have any problems, please email: yuweiwan2-c@my.cityu.edu.hk 
